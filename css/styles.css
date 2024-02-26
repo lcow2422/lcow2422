@@ -1,0 +1,96 @@
+body{
+    background-color: aquamarine;
+    font-family: "Arial", "Helvetica", sans-serif;
+}
+
+.container{
+    width: 80%;
+    
+}
+
+header{
+    background-color: slateblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+nav {
+    padding: 10px; 
+    margin-top: 10px; 
+    margin-bottom: 10px; 
+    border: 1px solid #333; 
+    border-radius: 5px; 
+}
+
+main {
+    display: block; 
+    padding: 20px; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+    border-radius: 10px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); 
+}
+
+h1 {
+    font-size: 28px; 
+    color: #9c2626;
+}
+
+h2 {
+    font-size: 24px; 
+}
+
+h3 {
+    font-size: 20px; 
+}
+
+h4 {
+    font-size: 18px; 
+}
+
+h5 {
+    font-size: 16px; 
+}
+
+h6 {
+    font-size: 14px; 
+}
+
+ul, ol {
+    margin: 0; 
+    padding: 0; 
+    list-style: none; 
+}
+
+li {
+    margin-bottom: 10px; 
+}
+
+ul li {
+    padding-left: 20px; 
+    background-repeat: no-repeat; 
+    background-position: 0 8px; 
+}
+
+ol li {
+    padding-left: 20px; 
+}
+
+footer {
+    text-align: center; /* Center align the content */
+    font-size: 14px; /* Reduce the font size for the footer */
+    margin-top: 20px; /* Top margin */
+}
+
+
+
+img {
+    display: block; /* Make the image a block-level element */
+    margin: auto; /* Center the image horizontally */
+    
+  
+}
+
